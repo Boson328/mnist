@@ -1,0 +1,9 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "analysis": {
+    "useLibraryCodeForTypes": true,
+    "indexing": true,
+    "typeCheckingMode": "basic"
+  }
+}
